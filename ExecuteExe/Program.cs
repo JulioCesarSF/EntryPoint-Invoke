@@ -17,7 +17,7 @@ namespace ExecuteExe
         {
             //OpenFileExe();
 
-            //testar os 2 abaixo juntos
+            //testar os 2 juntos
             //ExecutableToArray();
             //EntryPointCallFromArray();
 
